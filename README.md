@@ -6,6 +6,8 @@
 Here the list of fields available for your template :
 EMAIL, FIRSTNAME, LASTNAME, TITLE, COMPANY, COSTCENTER, DEPARTMENT, WORKPHONE, MOBILEPHONE, WORKADRESS, CUSTOM1, CUSTOM2, CUSTOM3, CUSTOM4, CUSTOM5
 
+<img src="https://raw.githubusercontent.com/St3ph-fr/ezmail-signature-template/master/img/ezMail-signature-sheets.png" width="80%">
+
 You have 5 customs fields in order to add some specific data.
 
 

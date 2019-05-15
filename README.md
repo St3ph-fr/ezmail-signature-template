@@ -26,4 +26,5 @@ In order to have some conditionnal data in your template you can use Dynamics Fi
 
 For example conditional fields are interesting for phone number, if you want to add a phone icon before the phone number you can set the icon as conditional data. In this case if a phone number exist the icon is displayed if phone number is not present for user it is not displayed.
 
-Example : <quote>{{(<img src="https://www……" valign="middle">)mobilePhone}}</quote>
+Example : 
+```{{(<img src="https://www……" valign="middle">)mobilePhone}}```

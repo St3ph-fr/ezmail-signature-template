@@ -1,5 +1,7 @@
 # How to setup your signature template
 
+Want a valid template go to our teamplate code section : [link>>](https://github.com/St3ph-fr/ezmail-signature-template/tree/master/code%20template)
+
 
 ## Fileds available
 

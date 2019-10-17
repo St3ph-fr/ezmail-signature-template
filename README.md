@@ -30,3 +30,18 @@ For example conditional fields are interesting for phone number, if you want to 
 
 Example : 
 ```{{(<img src="https://www……" valign="middle">)mobilePhone}}```
+
+## Template example
+
+[Simple Blue >>](https://github.com/St3ph-fr/ezmail-signature-template/blob/master/code%20template/simple_blue.html)
+
+<img src="https://raw.githubusercontent.com/St3ph-fr/ezmail-signature-template/master/img/simple_blue.png" >
+
+[Simple Blue with Icon >>](https://github.com/St3ph-fr/ezmail-signature-template/blob/master/code%20template/simple_blue_with_icon.html)
+
+<img src="https://raw.githubusercontent.com/St3ph-fr/ezmail-signature-template/master/img/simple_blue_with_icon.png" >
+
+[Orange with Logo >>](https://github.com/St3ph-fr/ezmail-signature-template/blob/master/code%20template/orange_logo_left.html)
+
+<img src="https://raw.githubusercontent.com/St3ph-fr/ezmail-signature-template/master/img/orange_logo_left.png" >
+
